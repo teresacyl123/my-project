@@ -6,10 +6,9 @@ import TheWelcome from './components/TheWelcome.vue'
 <template>
    <nav class="navbar">
       <div class="nav-inner">
-        <span class="logo">🎼 风里的口琴</span>
+        <span class="logo">我的作品集</span>
         <div class="nav-links">
-          <router-link to="/">首页</router-link>
-          <router-link to="/works">作品</router-link>
+          <router-link to="/">首页</router-link> 
           <router-link to="/about">关于</router-link>
           <router-link to="/contact">联系</router-link>
           
@@ -25,8 +24,8 @@ import TheWelcome from './components/TheWelcome.vue'
 /* ① 导航栏 */
 .navbar {
   width: 100vw;
-  background: #0f0f1e;
-  padding: 1rem 0;
+background: linear-gradient(180deg, #0a1628 0%, #0d2137 50%, #0a1628 100%);
+ padding: 1rem 0;
   position: sticky;
   top: 0;
   z-index: 100;
