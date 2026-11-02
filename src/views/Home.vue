@@ -27,8 +27,8 @@
           desc="用户管理 CRUD 页面，含搜索筛选、分页、弹窗表单、表单校验，Mock 数据驱动。"
           tech="Vue3 · Element Plus · Mock"
           gradient="linear-gradient(135deg, #f093fb 0%, #f5576c 100%)"
-          preview-link=" "
-          github-link=" "
+          preview-link="https://admin-demo-cfx.pages.dev/admin"
+          github-link="https://github.com/teresacyl123/admin-demo.git"
         />
         <WorkCard
           emoji="🎼"
