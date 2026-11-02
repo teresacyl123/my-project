@@ -21,8 +21,8 @@
 <text>跨界开发者 · 前端转音乐 · 独立作品全流程 · Vue3 生态</text>
     </p>
      <p class="p_info">
-        <a href="mailto:chenyilin2009@yeah.net">邮箱</a>
-        <a href="https://github.com/teresacyl123" target="_blank">GitHub</a>
+        <a href="mailto:chenyilin2009@yeah.net">邮箱:chenyilin2009@yeah.net</a>
+        <a href="https://github.com/teresacyl123" target="_blank">GitHub:teresacyl123</a>
      </p>
   </div>
 
