@@ -36,8 +36,8 @@
           desc="基于 Web Audio API 的实时频率检测工具，辅助口琴调音与音准练习。"
           tech="Web Audio API · Canvas · TS"
           gradient="linear-gradient(135deg, #4facfe 0%, #00f2fe 100%)"
-          preview-link=" "
-          github-link=" "
+          preview-link="https://tuner-tool.pages.dev/tuner"
+          github-link="https://github.com/teresacyl123/tuner-tool.git"
         />
       </div>
     </section>
